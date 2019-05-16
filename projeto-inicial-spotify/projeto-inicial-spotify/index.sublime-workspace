@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"posi",
+				"background-position\tproperty"
+			],
+			[
+				"backgroun",
+				"background-image\tproperty"
+			],
+			[
+				"border",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"pag",
+				"pagina_inicial"
+			],
+			[
+				"jogador",
+				"jogador_2"
+			],
+			[
+				"entra",
+				"entrada_apelido_jogador_2"
+			],
+			[
+				"joga",
+				"jogador_1"
+			],
+			[
+				"veri",
+				"verifica_combinacao"
+			],
+			[
+				"id",
+				"id_campo_clicado"
+			],
+			[
+				"entrada",
+				"entrada_apelido_jogador_2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"border-",
+				"border-right\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"U",
+				"uppercase\ttext-transform"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ta-",
+				"table-cell\tdisplay"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"colla",
+				"collapse"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"coll",
+				"collapse"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"btn-",
+				"btn-block"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"nome",
+				"Nome"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bord",
+				"border-left\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"texto",
+				"texto-padrao"
+			],
+			[
+				"fo",
+				"font\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/carin/Desktop/ProvaFront/ProvaFront/style.css",
+		"/C/Users/carin/Desktop/ProvaFront/ProvaFront/index.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/instagram/style.css",
+		"/C/Users/carin/Desktop/Outros/Estudos/instagram/site.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/site.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tumblr/tumblr/index.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tumblr/tumblr/estilo.css",
+		"/C/Users/carin/Desktop/Outros/Estudos/tecblog/index.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tecblog/css/estilo.css",
+		"/C/Users/carin/Desktop/sistema.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tumblr/tumblr/teste.html",
+		"/C/Users/carin/Desktop/tabela.html",
+		"/C/xampp/htdocs/if_else.php",
+		"/C/Users/carin/Desktop/jquery-jogodavelha/jogo.js",
+		"/C/Users/carin/Desktop/jquery-jogodavelha/jogo.html",
+		"/C/Users/carin/Desktop/projeto-inicial-spotify/projeto-inicial-spotify/estilo.css",
+		"/C/Users/carin/Desktop/projeto-inicial-spotify/projeto-inicial-spotify/index.html",
+		"/C/Users/carin/Desktop/otimizando-spotify/index.html",
+		"/C/Users/carin/Desktop/otimizando-spotify/estilo.css",
+		"/C/Users/carin/Desktop/otimizando-spotify/estilo-impressao.css",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/navegacao.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/Projeto html/estilo.css",
+		"/C/Users/carin/Desktop/Outros/Estudos/Projeto html/bootstrap_teste.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/Projeto html/bootstrap_teste",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/tooltip.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/alerts.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/icones.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/imagens.html",
+		"/C/Users/carin/Desktop/css3/normalize.html",
+		"/C/Users/carin/Desktop/css3/css/normalize.css",
+		"/C/Users/carin/Desktop/css3/css/estilo.css",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/js/htmlshiv.js",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/botoes.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/tabelas.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/formulario.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/index.html",
+		"/C/Users/carin/Desktop/ProjetoBootstrap/estilo.css",
+		"/C/Users/carin/Desktop/Outros/Estudos/tecblog/eletronicos.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tecblog/apps.html",
+		"/C/Users/carin/Desktop/Outros/Estudos/tecblog/games.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/modelo_caixa.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/elementos_flutuantes.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/formatacao-textos.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/fontes-cores.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/bordas.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/span-div.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/css/style.html",
+		"/C/Users/carin/Desktop/Estudos/Primeiro projeto/index.html",
+		"/C/Users/carin/Desktop/Estudos/Primeiro projeto/contatos.html",
+		"/C/Users/carin/Desktop/Estudos/Primeiro projeto/quem-somos.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/index.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/formularios.html",
+		"/C/Users/carin/Desktop/Estudos/Projeto html/caracteres_especiais.html",
+		"/C/Users/carin/Desktop/Uma pagina HTML é composta por tags de html, head"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
